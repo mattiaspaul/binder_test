@@ -1,7 +1,7 @@
-imageio
-torch
-numpy
-skimage
+#imageio
+#torch
+#numpy
+#skimage
 plotly
-base64
-matplotlib
+#base64
+#matplotlib
